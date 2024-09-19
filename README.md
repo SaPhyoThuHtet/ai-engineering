@@ -17,6 +17,7 @@ Amazon SageMaker, EC2, and Lambda serve different purposes in the AWS ecosystem.
 ### EC2 Deployment on AWS
 Deploying an application on Amazon EC2 involves launching a virtual machine in the AWS cloud, giving users full control over the compute environment. The process includes selecting an instance type, configuring instance details (network, storage, security), and choosing an AMI (operating system). After launching the instance, you access it via SSH or RDP to install and configure your application. Security groups control network access, and optional services like Elastic Load Balancers can enhance scalability. You can also associate an Elastic IP or use Route 53 for domain setup, while CloudWatch provides monitoring and auto-scaling for efficient resource management.
 [Doc Link](https://docs.google.com/document/d/1ynYswb92gGC7xJkBy0fVRCGiu9-UketU/edit?usp=sharing&ouid=112002462361361896203&rtpof=true&sd=true)
+
 [How to Enable Port No 5000](https://drive.google.com/file/d/1UnOrMKPyRoCXRaq--D4HCWlTP19fZhC7/view?usp=sharing)
 
 ### Load Testing with JMeter
