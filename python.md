@@ -11,6 +11,13 @@ from typing import List, Optional, Tuple, Union
 ### 3. What is the use of from functools import lru_cache
 
 ![image](https://github.com/user-attachments/assets/0f6c303a-0bd8-4735-ace5-d54872ae0979)
+![image](https://github.com/user-attachments/assets/e792a064-48a8-47ff-b3b5-6543aa99dc0d)
+![image](https://github.com/user-attachments/assets/76265eae-354d-4c05-8e2a-54b0090e7296)
+![image](https://github.com/user-attachments/assets/04dd58bc-b9cc-4263-bbc2-9d4e0264847a)
+![image](https://github.com/user-attachments/assets/12b94deb-29e4-4555-86db-aec08fc6c147)
+
+
+
 
 
 
