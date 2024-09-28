@@ -1,4 +1,4 @@
-### *args and **kwargs
+### 1. *args and **kwargs
 ![image](https://github.com/user-attachments/assets/f67ed981-988b-4b0f-9eba-683dc867467e)
 ![image](https://github.com/user-attachments/assets/e9752040-f2c7-4280-9d48-0ca5a49fa168)
 ![image](https://github.com/user-attachments/assets/6e9d683a-ec62-4848-9b19-f51febce0e86)
