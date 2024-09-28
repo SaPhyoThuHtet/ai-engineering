@@ -5,6 +5,9 @@
 ![image](https://github.com/user-attachments/assets/71ac970e-aa85-4536-a928-9af480ab7315)
 ![image](https://github.com/user-attachments/assets/9ac2a172-0f22-40f4-bf3c-25d42fe1d916)
 
+### 2. List, Tuple, Union, Optional
+from typing import List, Optional, Tuple, Union
+
 
 
 
