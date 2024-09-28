@@ -8,6 +8,10 @@
 ### 2. List, Tuple, Union, Optional
 from typing import List, Optional, Tuple, Union
 
+### 3. What is the use of from functools import lru_cache
+
+![image](https://github.com/user-attachments/assets/0f6c303a-0bd8-4735-ace5-d54872ae0979)
+
 
 
 
