@@ -20,6 +20,9 @@ Deploying an application on Amazon EC2 involves launching a virtual machine in t
 
 [How to Enable Port No 5000](https://drive.google.com/file/d/1UnOrMKPyRoCXRaq--D4HCWlTP19fZhC7/view?usp=sharing)
 
+
+Find AWS Access Key ID and Secret Access Key: https://www.msp360.com/resources/blog/how-to-find-your-aws-access-key-id-and-secret-access-key/#:~:text=1%20Go%20to%20Amazon%20Web,and%20Secret%20Access%20Key)%20option.
+
 ### Load Testing with JMeter
 Load Testing with JMeter is a process used to evaluate the performance and scalability of web applications by simulating heavy user traffic. Apache JMeter, an open-source tool, allows testers to create and configure test plans that mimic real-world usage scenarios, including concurrent users, requests, and data. It measures response times, throughput, error rates, and other performance metrics, providing valuable insights into how the application behaves under stress. JMeter supports a wide range of protocols (HTTP, FTP, SOAP, JDBC) and can generate detailed reports to help identify bottlenecks, optimize resources, and ensure the application can handle the expected load efficiently before going live.
 [Doc Link](https://docs.google.com/document/d/1nToFXjV6ZAd17PgmKSQFOzLV-wo6RLbwTFlv1LrMKg0/edit?usp=sharing)
