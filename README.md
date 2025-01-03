@@ -50,24 +50,18 @@ gunicorn
 Add other dependencies your app uses.
 Login to Heroku:
 
-bash
-Copy code
+
 heroku login
 Initialize Git and create a Heroku app:
 
-bash
-Copy code
+
 git init
 heroku create
 Push your app to Heroku:
 
-bash
-Copy code
+
 git add .
 git commit -m "Initial commit"
 git push heroku master
 Open the app:
-
-bash
-Copy code
 heroku open
