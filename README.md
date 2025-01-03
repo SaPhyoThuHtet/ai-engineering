@@ -26,3 +26,48 @@ Find AWS Access Key ID and Secret Access Key: https://www.msp360.com/resources/b
 ### Load Testing with JMeter
 Load Testing with JMeter is a process used to evaluate the performance and scalability of web applications by simulating heavy user traffic. Apache JMeter, an open-source tool, allows testers to create and configure test plans that mimic real-world usage scenarios, including concurrent users, requests, and data. It measures response times, throughput, error rates, and other performance metrics, providing valuable insights into how the application behaves under stress. JMeter supports a wide range of protocols (HTTP, FTP, SOAP, JDBC) and can generate detailed reports to help identify bottlenecks, optimize resources, and ensure the application can handle the expected load efficiently before going live.
 [Doc Link](https://docs.google.com/document/d/1nToFXjV6ZAd17PgmKSQFOzLV-wo6RLbwTFlv1LrMKg0/edit?usp=sharing)
+
+
+### Plotly Dash on Heroku
+1. Deploy on Heroku (Free and Easy for Small Apps)
+Prerequisites:
+Install the Heroku CLI.
+A GitHub or Git repository.
+A requirements.txt file for your Python dependencies.
+Steps:
+Prepare your app directory:
+
+Your Dash app should be in a file, e.g., app.py.
+Create a Procfile in the same directory with the content:
+makefile
+Copy code
+web: gunicorn app:server
+Ensure you have a requirements.txt file with the required Python libraries:
+bash
+Copy code
+dash
+gunicorn
+Add other dependencies your app uses.
+Login to Heroku:
+
+bash
+Copy code
+heroku login
+Initialize Git and create a Heroku app:
+
+bash
+Copy code
+git init
+heroku create
+Push your app to Heroku:
+
+bash
+Copy code
+git add .
+git commit -m "Initial commit"
+git push heroku master
+Open the app:
+
+bash
+Copy code
+heroku open
