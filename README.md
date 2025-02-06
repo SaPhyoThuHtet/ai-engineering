@@ -29,36 +29,39 @@ Load Testing with JMeter is a process used to evaluate the performance and scala
 
 
 ### Plotly Dash on Heroku
-1. Deploy on Heroku (Free and Easy for Small Apps)
-Prerequisites:
-Install the Heroku CLI.
-A GitHub or Git repository.
-A requirements.txt file for your Python dependencies.
-Steps:
+Deploy on Heroku (Free and Easy for Small Apps) <br>
+
+Prerequisites:<br>
+Install the Heroku CLI.<br>
+A GitHub or Git repository.<br>
+A requirements.txt file for your Python dependencies.<br>
+
+
+Steps:<br>
 Prepare your app directory:
 
 Your Dash app should be in a file, e.g., app.py.<br>
 Create a Procfile in the same directory with the content:<br>
-makefile
-web: gunicorn app:server
-Ensure you have a requirements.txt file with the required Python libraries:
-dash
-gunicorn
+makefile<br>
+web: gunicorn app:server<br>
+
+Ensure you have a requirements.txt file with the required Python libraries:<br>
+dash<br>
+gunicorn<br>
 Add other dependencies your app uses.
+
 Login to Heroku:
-
-
 heroku login
+
 Initialize Git and create a Heroku app:
-
-
-git init
-heroku create
+git init <br>
+heroku create<br>
 Push your app to Heroku:
 
 
-git add .
-git commit -m "Initial commit"
-git push heroku master
-Open the app:
+git add .<br>
+git commit -m "Initial commit"<br>
+git push heroku master<br>
+
+Open the app:<br>
 heroku open
