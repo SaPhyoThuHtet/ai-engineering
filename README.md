@@ -37,14 +37,11 @@ A requirements.txt file for your Python dependencies.
 Steps:
 Prepare your app directory:
 
-Your Dash app should be in a file, e.g., app.py.
-Create a Procfile in the same directory with the content:
+Your Dash app should be in a file, e.g., app.py.<br>
+Create a Procfile in the same directory with the content:<br>
 makefile
-Copy code
 web: gunicorn app:server
 Ensure you have a requirements.txt file with the required Python libraries:
-bash
-Copy code
 dash
 gunicorn
 Add other dependencies your app uses.
