@@ -54,7 +54,7 @@ Collaboration:
 
 Data scientists, engineers, နဲ့ operations teams တွေကြား collaboration ကို မြှင့်တင်ပါ။
 
-MLOps Tools
+### MLOps Tools
 MLOps မှာ အသုံးပြုတဲ့ tools တွေကို အောက်ပါအတိုင်း ခွဲခြားနိုင်ပါတယ်:
 
 Data Management: DVC (Data Version Control), Pachyderm
