@@ -57,39 +57,15 @@ Data scientists, engineers, နဲ့ operations teams တွေကြား col
 MLOps Tools
 MLOps မှာ အသုံးပြုတဲ့ tools တွေကို အောက်ပါအတိုင်း ခွဲခြားနိုင်ပါတယ်:
 
-Data Management:
+Data Management: DVC (Data Version Control), Pachyderm
 
-DVC (Data Version Control)
+Experiment Tracking: MLflow, Weights & Biases
 
-Pachyderm
+Model Deployment: Docker, Kubernetes, TensorFlow Serving
 
-Experiment Tracking:
+CI/CD: Jenkins, GitHub Actions, GitLab CI/CD
 
-MLflow
-
-Weights & Biases
-
-Model Deployment:
-
-Docker
-
-Kubernetes
-
-TensorFlow Serving
-
-CI/CD:
-
-Jenkins
-
-GitHub Actions
-
-GitLab CI/CD
-
-Monitoring:
-
-Prometheus
-
-Grafana
+Monitoring: Prometheus, Grafana
 
 MLOps ရဲ့ အကျိုးကျေးဇူးများ
 Faster Deployment:
