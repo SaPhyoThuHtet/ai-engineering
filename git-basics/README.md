@@ -96,7 +96,7 @@ Remote repository က code တွေကို local မှာ update လုပ�
 
 
 git pull origin main
-အသုံးဝင်တဲ့ Git Commands များ
+#### အသုံးဝင်တဲ့ Git Commands များ
 Log ကြည့်ခြင်း:
 
 
@@ -110,7 +110,8 @@ git restore --staged filename.txt
 Branch ကို Delete လုပ်ခြင်း:
 
 git branch -d branch-name
-Git ကို အသုံးပြုရာမှာ အကြံပြုချက်များ
+
+#### Git ကို အသုံးပြုရာမှာ အကြံပြုချက်များ
 Commit Messages တွေကို ရှင်းလင်းစွာရေးပါ:
 
 Changes တွေကို နားလည်လွယ်အောင် commit messages တွေကို ရှင်းရှင်းလင်းလင်း ရေးပါ။
