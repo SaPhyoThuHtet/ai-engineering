@@ -45,6 +45,7 @@ Git ကို စတင်သုံးဖို့အတွက် သင့်�
 
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
+
 2. Repository စတင်ခြင်း
 Project folder ထဲမှာ Git repository စတင်ဖို့အတွက် အောက်ပါ command ကို run ပါ:
 
