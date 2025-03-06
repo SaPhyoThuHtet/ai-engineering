@@ -39,7 +39,7 @@ Installation ပြီးရင် အောက်ပါ command ကို run �
 git --version
 Git version ကို ပြသပါလိမ့်မယ်။
 
-Git ကို စတင်အသုံးပြုနည်း
+#### Git ကို စတင်အသုံးပြုနည်း
 1. Git Configuration (ပြင်ဆင်ခြင်း)
 Git ကို စတင်သုံးဖို့အတွက် သင့်ရဲ့ username နဲ့ email ကို သတ်မှတ်ပေးရပါမယ်။ Terminal (သို့) Git Bash မှာ အောက်ပါ commands တွေကို run ပါ:
 
