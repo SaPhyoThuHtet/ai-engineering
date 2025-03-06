@@ -33,7 +33,7 @@ Retraining: Data တွေ ပြောင်းလဲလာရင် models တ
 
 Feedback Loop: Production data တွေကို ပြန်လည်အသုံးပြုပြီး models တွေကို improve လုပ်ပါ။
 
-MLOps ရဲ့ အဓိက Components
+### MLOps ရဲ့ အဓိက Components
 Version Control:
 
 Code, data, နဲ့ models တွေကို version control လုပ်ပါ (ဥပမာ - Git, DVC)။
