@@ -127,3 +127,7 @@ git pull နဲ့ git push တွေကို မကြာခဏလုပ်ပ
 .gitignore ဖိုင်ကို အသုံးပြုပါ:
 
 မလိုအပ်တဲ့ files တွေ (ဥပမာ - .env, node_modules) ကို track မလုပ်မိအောင် .gitignore ဖိုင်မှာ ထည့်သွင်းပါ။
+
+
+### Practical Exercises
+
