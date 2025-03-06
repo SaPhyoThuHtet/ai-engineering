@@ -1,4 +1,4 @@
-### General Knowledge
+## General Knowledge
 
 Git ဆိုတာက version control system တစ်ခုဖြစ်ပြီး၊ software development မှာ code တွေကို စီမံခန့်ခွဲဖို့၊ ပူးပေါင်းလုပ်ဆောင်ဖို့နဲ့ changes တွေကို ခြေရာခံဖို့အတွက် အသုံးပြုပါတယ်။ ဒီမှာတော့ Git ကို ဘယ်လို အသုံးပြုရမလဲဆိုတာကို လွယ်ကူရှင်းလင်းစွာ ရှင်းပြပေးသွားမှာပါ။
 
@@ -129,5 +129,5 @@ git pull နဲ့ git push တွေကို မကြာခဏလုပ်ပ
 မလိုအပ်တဲ့ files တွေ (ဥပမာ - .env, node_modules) ကို track မလုပ်မိအောင် .gitignore ဖိုင်မှာ ထည့်သွင်းပါ။
 
 
-### Practical Exercises
+## Practical Exercises
 
