@@ -8,3 +8,5 @@ Codification: သင့် ML project ၏ မည်သည့်အပိုင�
 Versioning: Git (သို့မဟုတ် မည်သည့် SCM ကိုမဆို) ကို အသုံးပြုပြီး သင့် ML project တစ်ခုလုံးကို versioning နှင့် sharing လုပ်ပါတယ်။ ၎င်းတွင် source code နှင့် configuration၊ parameters နှင့် metrics၊ data assets နှင့် processes တို့ ပါဝင်ပြီး၊ DVC metafiles များကို (placeholders အဖြစ်) commit လုပ်ပါ။
 
 Secure collaboration: သင့် project ၏ မည်သည့်အပိုင်းကိုမဆို ဝင်ရောက်ခွင့်ကို ထိန်းချုပ်ပြီး၊ သင်ရွေးချယ်ထားသော လူများနှင့် အသင်းများနှင့် မျှဝေnaingပါတယ်။
+
+Some Concept: https://youtu.be/LQF6vHm_QIY?si=unuzVsEHAUsBqch8
