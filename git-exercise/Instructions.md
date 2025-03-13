@@ -1,14 +1,20 @@
-For the first time user: 
+For the first time user:
+
 git config --global user.name “Your Name” Set the name that will be attached to your commits and tags.
+
 git config --global user.email “you@example.com”
+
 Set the e-mail address that will be attached to your commits and tags. 
+
 References: GitLab https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 
 
 Working a project
+
 Clone a repository: git clone <repo_name>
-Make some changes to the README file
-Add file to staging area: git add <filename>
+
+Make some changes to the README file<br>
+Add file to staging area: git add <filename><br?
 Commit to Local Repository: git commit -m "<message>"
 Push to Remote Repository: git push origin <branch_name>
 Changes something in the readme file from the GitHub Repo
